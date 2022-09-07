@@ -1,0 +1,47 @@
+.product{
+    border: 1px solid red;
+    margin: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    margin: 14px;
+    background: #130e2e;
+    color: #ffebcd;
+}
+
+img{
+    height: 180px;
+    width: 250px;
+    object-fit: cover;
+    border-radius: 8px;
+    display: flex;
+    margin: auto;
+    margin-top:1rem ;
+}
+
+.btn-regular{
+    margin: auto;
+    display: flex;
+    margin-bottom:1rem;
+    padding: .5rem .8rem;
+    border-radius: 8px;
+    background: #a80988;;
+    color: #f0f8ff;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 1s;
+    border:none;
+}
+
+.btn-regular:hover{
+background-color: #080b05;
+
+}
+.details{
+    margin-left: 10px;
+    padding-left: 34px;
+}
+
+.details p{
+    margin-top: 0.7rem;
+    margin-bottom: 5px;
+}
