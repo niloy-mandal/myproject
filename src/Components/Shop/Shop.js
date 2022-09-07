@@ -32,7 +32,7 @@ const Shop = () => {
                 }
             </div>
             <div className="cart-part">
-                <Cart></Cart>
+                <Cart car={carts}></Cart>
             </div>
         </div>
     );

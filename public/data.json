@@ -2,7 +2,7 @@
     {
       "id": "631825f67e838e449c76d3ce",
       "index": 0,
-      "price": 31,
+      "price": 31.12,
       "picture": "https://images.pexels.com/photos/1327430/pexels-photo-1327430.jpeg?auto=compress&cs=tinysrgb&w=600",
       "name": "Kathryn Hardin",
       "company": "TERASCAPE"
@@ -10,7 +10,7 @@
     {
       "id": "631825f68745aeb988339df9",
       "index": 1,
-      "price": 27,
+      "price": 27.46,
       "picture": "https://images.pexels.com/photos/625788/pexels-photo-625788.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Wilkinson Clemons",
       "company": "COMSTRUCT"
@@ -18,7 +18,7 @@
     {
       "id": "631825f6ae481d5fc423f33a",
       "index": 2,
-      "price": 39,
+      "price": 39.09,
       "picture": "https://images.pexels.com/photos/258283/pexels-photo-258283.jpeg?auto=compress&cs=tinysrgb&w=600",
       "name": "Jacobs Lambert",
       "company": "MEDIOT"
@@ -26,7 +26,7 @@
     {
       "id": "631825f65257578ceb47bb22",
       "index": 3,
-      "price": 38,
+      "price": 38.67,
       "picture": "https://images.pexels.com/photos/221563/pexels-photo-221563.jpeg?auto=compress&cs=tinysrgb&w=600",
       "name": "Constance Morse",
       "company": "ENORMO"
@@ -34,7 +34,7 @@
     {
       "id": "631825f6dfd0894d0e5a1d30",
       "index": 4,
-      "price": 30,
+      "price": 30.74,
       "picture": "https://images.pexels.com/photos/6679419/pexels-photo-6679419.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Tanisha Howard",
       "company": "NIMON"
@@ -42,7 +42,7 @@
     {
       "id": "631825f6487624638bbc531d",
       "index": 5,
-      "price": 23,
+      "price": 23.19,
       "picture": "https://images.pexels.com/photos/164743/pexels-photo-164743.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Alyce Good",
       "company": "EXODOC"
